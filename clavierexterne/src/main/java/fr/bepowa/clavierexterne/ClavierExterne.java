@@ -1,4 +1,4 @@
-package fr.bepo.clavierexterne;
+package fr.bepowa.clavierexterne;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
