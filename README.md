@@ -1,4 +1,8 @@
-# Bépo clavier externe
+# Bépo clavier externe, variante bépo-wà
+
+- inverse w,à afin de rapprocher le w pour l'anglais et la programmation
+- inverse =,@ afin de rapprocher = pour la programmation et le tableur
+- inverse <,« ainsi que > » afin de favoriser la programmation
 
 Application Android pour le support bépo des clavier externes. Nécessite Android 4.1 minimum.
 
